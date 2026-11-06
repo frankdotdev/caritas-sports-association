@@ -311,7 +311,7 @@ export interface MediaAsset {
   createdAt: string;
   status?: "approved" | "pending" | "rejected";
   uploadedBy?: string;
-  sourceType?: "upload" | "url";
+  sourceType?: "upload" | "url" | "file";
 }
 
 export interface Official {

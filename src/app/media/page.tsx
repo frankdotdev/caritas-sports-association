@@ -77,7 +77,7 @@ export default function MediaPage() {
         category,
         sport,
         uploadedBy: photographerName.trim() || "Student Sideline Photographer",
-        sourceType: uploadType
+        sourceType: uploadType === "file" ? "upload" : "url"
       });
 
       setSubmitSuccess(true);
