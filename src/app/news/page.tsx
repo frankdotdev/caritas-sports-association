@@ -273,7 +273,9 @@ export default function NewsPage() {
 
               <div style={{ fontSize: 11, color: "var(--muted)", borderTop: "1px solid var(--line)", paddingTop: 10, display: "flex", alignItems: "center", gap: 5 }}>
                 <span>By {article.author}</span>
-                <BadgeCheck size={14} style={{ color: "var(--accent)" }} title="Verified CFA Journalist" />
+                <span title="Verified CFA Journalist" style={{ display: "inline-flex", alignItems: "center" }}>
+                  <BadgeCheck size={14} style={{ color: "var(--accent)" }} />
+                </span>
                 <span className="muted">· {formatDate(article.publishedAt)}</span>
               </div>
             </div>
