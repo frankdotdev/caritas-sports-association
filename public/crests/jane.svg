@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <!-- Outer Black Shield Contour -->
+  <path d="M100 12 L172 38 V118 C172 172 100 218 100 218 C100 218 28 172 28 118 V38 L100 12 Z" fill="#0F172A" stroke="#DC2626" stroke-width="5"/>
+  <!-- Inner Vibrant Orange-Red Field -->
+  <path d="M100 22 L162 44 V115 C162 160 100 202 100 202 C100 202 38 160 38 115 V44 L100 22 Z" fill="#EA580C"/>
+  <path d="M100 22 L162 44 V115 C162 160 100 202 100 202 Z" fill="#DC2626" opacity="0.6"/>
+
+  <!-- Classic Soccer Ball -->
+  <circle cx="100" cy="85" r="32" fill="#FFFFFF" stroke="#0F172A" stroke-width="3"/>
+  <polygon points="100,72 111,79 107,92 93,92 89,79" fill="#0F172A"/>
+  <line x1="100" y1="72" x2="100" y2="55" stroke="#0F172A" stroke-width="2.5"/>
+  <line x1="111" y1="79" x2="126" y2="73" stroke="#0F172A" stroke-width="2.5"/>
+  <line x1="107" y1="92" x2="119" y2="108" stroke="#0F172A" stroke-width="2.5"/>
+  <line x1="93" y1="92" x2="81" y2="108" stroke="#0F172A" stroke-width="2.5"/>
+  <line x1="89" y1="79" x2="74" y2="73" stroke="#0F172A" stroke-width="2.5"/>
+
+  <!-- Red Banner Ribbon below -->
+  <path d="M28 145 L172 145 L160 162 L172 178 L28 178 L40 162 Z" fill="#991B1B"/>
+  <rect x="36" y="148" width="128" height="26" rx="2" fill="#DC2626" stroke="#FEF08A" stroke-width="1.5"/>
+  <text x="100" y="166" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="16" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">JANE FC</text>
+</svg>

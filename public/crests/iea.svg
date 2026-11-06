@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <!-- Fire / Flame on Top -->
+  <path d="M100 20 C108 35 125 45 120 65 C116 78 105 82 100 85 C95 82 84 78 80 65 C75 45 92 35 100 20 Z" fill="#EA580C"/>
+  <path d="M100 35 C104 45 114 52 110 65 C107 72 102 75 100 76 C98 75 93 72 90 65 C86 52 96 45 100 35 Z" fill="#FBBF24"/>
+  
+  <!-- Soccer Ball in Flame base -->
+  <circle cx="100" cy="80" r="16" fill="#FFFFFF" stroke="#0F172A" stroke-width="2.5"/>
+  <polygon points="100,74 105,78 103,84 97,84 95,78" fill="#1E293B"/>
+
+  <!-- Dynamic Swirling Loop '8' (Orange upper wing, Royal Blue main loop) -->
+  <path d="M72 105 C60 115 55 128 62 140 C70 152 92 148 108 138 C128 126 142 120 150 128 C158 136 152 150 138 165 C118 185 95 208 120 225 C145 240 168 215 172 195 C176 175 160 148 142 135 C124 122 105 125 90 134 C75 143 70 148 68 142 C65 135 72 124 82 115 Z" fill="#2563EB"/>
+  <!-- Orange ribbon accent -->
+  <path d="M85 95 C68 100 52 112 55 128 C58 138 68 142 80 136 C68 130 65 118 78 108 C88 100 98 102 105 98 Z" fill="#F97316"/>
+
+  <!-- IEA text -->
+  <text x="100" y="210" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="28" fill="#1E3A8A" text-anchor="middle" letter-spacing="3">IEA FC</text>
+</svg>

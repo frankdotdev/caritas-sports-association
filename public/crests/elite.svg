@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <!-- Double Golden Heraldic Shield -->
+  <path d="M100 10 L172 38 V118 C172 170 100 215 100 215 C100 215 28 170 28 118 V38 L100 10 Z" fill="#D97706" stroke="#FDE047" stroke-width="4"/>
+  <path d="M100 20 L162 44 V115 C162 160 100 200 100 200 C100 200 38 160 38 115 V44 L100 20 Z" fill="#1E293B"/>
+
+  <!-- 3 Gold Stars -->
+  <polygon points="100,32 102,38 109,38 103,42 105,48 100,44 95,48 97,42 91,38 98,38" fill="#FBBF24"/>
+  <polygon points="78,38 80,43 86,43 81,46 83,52 78,48 73,52 75,46 70,43 76,43" fill="#FBBF24"/>
+  <polygon points="122,38 124,43 130,43 125,46 127,52 122,48 117,52 119,46 114,43 120,43" fill="#FBBF24"/>
+
+  <!-- Large Monogram "EF" in varsity white -->
+  <text x="100" y="118" font-family="'Impact', 'Arial Black', sans-serif" font-weight="900" font-size="58" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">EF</text>
+
+  <!-- Golden Ribbon Banner at bottom -->
+  <path d="M42 148 L158 148 L168 168 L154 168 L100 168 L46 168 L32 168 Z" fill="#D97706"/>
+  <rect x="42" y="146" width="116" height="26" rx="3" fill="#F59E0B" stroke="#FDE047" stroke-width="1.5"/>
+  <text x="100" y="164" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="14" fill="#0F172A" text-anchor="middle" letter-spacing="2">ELITE FC</text>
+</svg>

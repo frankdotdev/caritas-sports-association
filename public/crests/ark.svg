@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <!-- Double Gold Shield Border -->
+  <path d="M100 12 L172 38 V120 C172 172 100 220 100 220 C100 220 28 172 28 120 V38 L100 12 Z" fill="#0B132B" stroke="#F59E0B" stroke-width="5"/>
+  <path d="M100 20 L164 44 V116 C164 162 100 208 100 208 C100 208 36 162 36 116 V44 L100 20 Z" fill="#1C2541" stroke="#FBBF24" stroke-width="1.5"/>
+
+  <!-- Top "ARK FC" Header Banner -->
+  <rect x="44" y="44" width="112" height="26" rx="3" fill="#0B132B" stroke="#F59E0B" stroke-width="2"/>
+  <text x="100" y="63" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="16" fill="#FBBF24" text-anchor="middle" letter-spacing="3">ARK FC</text>
+
+  <!-- Golden Ark / Boat Vessel Floating -->
+  <!-- Ark Hull -->
+  <path d="M56 122 C62 138 90 148 100 148 C110 148 138 138 144 122 L138 116 L62 116 Z" fill="#F59E0B" stroke="#FDE68A" stroke-width="2"/>
+  <line x1="68" y1="126" x2="132" y2="126" stroke="#92400E" stroke-width="2"/>
+  <line x1="76" y1="134" x2="124" y2="134" stroke="#92400E" stroke-width="2"/>
+  
+  <!-- Ark Cabin / Roof -->
+  <path d="M72 116 L80 94 L120 94 L128 116 Z" fill="#FBBF24" stroke="#92400E" stroke-width="2"/>
+  <rect x="86" y="98" width="8" height="10" fill="#0B132B"/>
+  <rect x="106" y="98" width="8" height="10" fill="#0B132B"/>
+
+  <!-- Stylized Ocean Waves -->
+  <path d="M50 156 C65 152 75 160 88 156 C100 152 112 160 124 156 C136 152 144 158 150 156" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M58 166 C70 162 82 170 94 166 C106 162 118 170 130 166 C138 162 144 166 148 165" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Motto ribbon at base -->
+  <text x="100" y="194" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="9" fill="#94A3B8" text-anchor="middle" letter-spacing="2">EST. 2021 · COVENANT</text>
+</svg>

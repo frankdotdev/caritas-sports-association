@@ -1,0 +1,15 @@
+{
+  "name": "Caritas Sports Association",
+  "short_name": "Caritas Sports",
+  "description": "The official digital headquarters of Caritas Sports Association.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11130F",
+  "theme_color": "#11130F",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/logo.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

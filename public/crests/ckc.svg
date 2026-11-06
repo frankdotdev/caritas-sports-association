@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <!-- Crossed Swords Behind -->
+  <line x1="30" y1="25" x2="170" y2="185" stroke="#94A3B8" stroke-width="6" stroke-linecap="round"/>
+  <line x1="170" y1="25" x2="30" y2="185" stroke="#94A3B8" stroke-width="6" stroke-linecap="round"/>
+  <!-- Sword Guards & Pommels -->
+  <line x1="22" y1="36" x2="42" y2="16" stroke="#CBD5E1" stroke-width="8"/>
+  <line x1="178" y1="36" x2="158" y2="16" stroke="#CBD5E1" stroke-width="8"/>
+
+  <!-- Main Shield -->
+  <path d="M100 28 L168 52 V124 C168 174 100 216 100 216 C100 216 32 174 32 124 V52 L100 28 Z" fill="#DC2626" stroke="#1E293B" stroke-width="6"/>
+  <!-- Dark Blue Half -->
+  <path d="M100 28 L168 52 V124 C168 174 100 216 V28 Z" fill="#1E3A8A"/>
+
+  <!-- Top "FC FOOTBALL" Ribbon -->
+  <rect x="44" y="58" width="112" height="20" rx="3" fill="#0F172A" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="100" y="73" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="11" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">FC FOOTBALL</text>
+
+  <!-- Soccer Ball -->
+  <circle cx="100" cy="115" r="26" fill="#FFFFFF" stroke="#0F172A" stroke-width="3"/>
+  <polygon points="100,105 108,111 105,121 95,121 92,111" fill="#0F172A"/>
+
+  <!-- Bottom CKC FC Text -->
+  <rect x="42" y="156" width="116" height="24" rx="3" fill="#0F172A"/>
+  <text x="100" y="173" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="16" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">CKC FC</text>
+</svg>
