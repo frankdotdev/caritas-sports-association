@@ -52,7 +52,7 @@ try {
 const nextConfig: NextConfig = {
   poweredByHeader: false,
   reactStrictMode: true,
-  outputFileTracingRoot: path.join(__dirname),
+  ...(process.env.VERCEL ? {} : { outputFileTracingRoot: path.join(__dirname) }),
   images: {
     unoptimized: true
   }

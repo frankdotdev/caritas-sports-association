@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { Camera, CheckCircle2, ImagePlus, Sparkles, Upload, X, ShieldAlert, Smartphone } from "lucide-react";
+import { Camera, CheckCircle2, ImagePlus, Smartphone, X } from "lucide-react";
 import { PublicShell } from "@/components/layout/public-shell";
 import { useSportsApp } from "@/lib/store";
 import { uploadMediaAsset } from "@/lib/storage-adapter";

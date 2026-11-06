@@ -54,7 +54,6 @@ export default function AdminPage() {
     addTeam,
     updateTeam,
     deleteTeam,
-    addAthlete,
     directRegisterAthlete,
     updateFixture,
     updateFixtureScore,

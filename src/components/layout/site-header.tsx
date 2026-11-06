@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
-import { ArrowRight, Bell, Menu, Search, Target, Trophy, X } from "lucide-react";
+import { ArrowRight, Menu, Search, Target, X } from "lucide-react";
 import { useSportsApp } from "@/lib/store";
 import { GoogleAuthButton } from "@/components/auth/google-auth-button";
 

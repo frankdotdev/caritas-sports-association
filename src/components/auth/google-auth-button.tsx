@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { LogOut, CheckCircle2, User, ChevronDown, X, ShieldCheck } from "lucide-react";
+import { LogOut, CheckCircle2, ChevronDown, X } from "lucide-react";
 import { useSportsApp } from "@/lib/store";
 
 export function GoogleLogo({ size = 18 }: { size?: number }) {

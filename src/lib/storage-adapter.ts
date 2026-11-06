@@ -69,3 +69,12 @@ export class StorageService {
     });
   }
 }
+
+/**
+ * Convenient standalone export for uploading match captures / media assets.
+ */
+export async function uploadMediaAsset(file: File | Blob, _bucket = "match-captures"): Promise<StorageUploadResult> {
+  return StorageService.uploadMatchCapture(file);
+}
+
+export const uploadMatchCapture = StorageService.uploadMatchCapture.bind(StorageService);
